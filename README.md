@@ -6,14 +6,12 @@
 
 ## Навыки
 
-| Технология   | Иконка                                              |
-|--------------|----------------------------------------------------|
-| Python       | ![Python](https://img.icons8.com/color/48/000000/python--v1.png) |
-| HTML         | ![HTML](https://img.icons8.com/color/48/000000/html-5.png)       |
-| CSS          | ![CSS](https://img.icons8.com/color/48/000000/css3.png)         |
-| JavaScript   | ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) |
-| Django       | ![Django](https://img.icons8.com/color/48/000000/django.png)   |
-| Git          | ![Git](https://img.icons8.com/color/48/000000/git.png)          |
+![Python](https://img.icons8.com/color/48/000000/python--v1.png) 
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS](https://img.icons8.com/color/48/000000/css3.png) 
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) 
+![Django](https://img.icons8.com/color/48/000000/django.png) 
+![Git](https://img.icons8.com/color/48/000000/git.png)         |
 
 ## Контактная информация
 - Email: [ваш.email@example.com](mailto:ira.tka4eva2011@yandex.ru)
