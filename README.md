@@ -9,7 +9,15 @@
 ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) 
 ![Django](https://img.icons8.com/color/48/000000/django.png) 
-![Git](https://img.icons8.com/color/48/000000/git.png)         |
+![Git](https://img.icons8.com/color/48/000000/git.png)    
+
+## Мои проекты (пока учебные)
+Cinema Booking System — система онлайн-бронирования билетов
+Ссылка на проект 
+https://github.com/zvezda1207/Cinema-diplom|
+Дипломный проект по профессии «Веб‑разработчик: Backend-разработка на Python». Приложение включает клиентскую часть для пользователей и административную панель для управления репертуаром и продажами. Основные сценарии: покупка билета гостем, просмотр/архивирование бронирований, управление залами и сеансами.
+
+
 
 ## Контактная информация
 - Email: ira.tka4eva2011@yandex.ru
