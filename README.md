@@ -66,10 +66,15 @@ Python 3.11, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, Docker Compose
 ---
 
 ### ⚛️ Frontend-проекты (дополнительно)
-> Выполнены в рамках обучения для понимания взаимодействия frontend и backend
+> Выполнены для практики работы с frontend-технологиями и расширения кругозора.  
+> Основной фокус — backend-разработка.
 
-- React диплом: https://github.com/zvezda1207/React-diploma  
-- Todo List: https://github.com/zvezda1207/React-project-todo-list  
+- **React диплом (учебный проект):**  
+  https://github.com/zvezda1207/React-diploma  
+
+- **Todo List (пет-проект, frontend):**  
+  https://github.com/zvezda1207/React-project-todo-list  
+  *Одностраничное приложение для управления задачами, реализованное полностью на React (Vite) с сохранением данных в localStorage.*
 
 ---
 
