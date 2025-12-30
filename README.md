@@ -20,6 +20,60 @@
 
 Сервисы: Python 3.11, FastAPI, SQLAlchemy 2, Alembic, PostgreSQL, React 18 (Vite), React Router, Axios, Docker, Docker Compose.
 
+### FastAPI Advertisement API
+
+[Ссылка на проект](https://github.com/zvezda1207/Fast-api-homework1)
+
+REST API приложение для управления объявлениями с системой авторизации и управления пользователями, построенное на FastAPI и PostgreSQL.
+Используемые технологии:
+	FastAPI
+	SQLAlchemy (асинхронный режим)
+	PostgreSQL
+	Docker
+	Docker Compose
+
+### Flask REST API для объявлений
+
+[Ссылка на проект](https://github.com/zvezda1207/Flask_Homework)
+
+Простое REST API приложение на Flask для создания и управления объявлениями.
+Сервисы:
+	Python 3.9
+	Flask
+	Flask-SQLAlchemy
+	Flask-Migrate
+	PostgreSQL
+	Docker
+	Docker Compose
+
+### Django REST API - Проект с оружием
+
+[Ссылка на проект](https://github.com/zvezda1207/Docker-restapi-weapon)
+
+Простой REST API для управления оружием в игре, построенный на Django и Django REST Framework.
+Сервисы:
+	Django
+	Docker
+
+### Дипломный проект курса «React»
+
+[Ссылка на проект](https://github.com/zvezda1207/React-diploma)
+
+Дипломный проект представляет собой интернет-магазин обуви. Задача заключалась в создании работающего приложения, всеми основными функциями которого можно пользоваться.
+Используемые технологии:
+	React (Vite)
+	Context API 
+
+### Todo List - Приложение для управления задачами
+
+[Ссылка на проект](https://github.com/zvezda1207/React-project-todo-list)
+
+Пет-проект. Современное веб-приложение для управления списком задач, созданное на React с использованием Vite. Приложение позволяет создавать, редактировать, удалять и фильтровать задачи с автоматическим сохранением в локальном хранилище браузера.
+Используемые технологии:
+	React 19.2.0 
+	Vite 7.2.4 
+	localStorage
+	ESLint 
 
 
 
