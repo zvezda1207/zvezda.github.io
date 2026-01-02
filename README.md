@@ -70,7 +70,7 @@ Python 3.11, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, Docker Compose
 > Основной фокус — backend-разработка.
 
 - **React диплом (учебный проект):**  
-  https://github.com/zvezda1207/React-diploma 
+  https://github.com/zvezda1207/React-diploma   
   Учебный frontend-проект — интернет-магазин с каталогом товаров, корзиной и оформлением заказа. 
 
 - **Todo List (пет-проект, frontend):**  
